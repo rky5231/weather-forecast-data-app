@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "1aebfe51e0ea71109d5c632cd75b47c9"
+API_KEY = "YOUR_OPENWEATHERMAP_API_KEY"
 
 
 def get_data(place, forecast_days=None):
